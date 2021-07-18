@@ -20,5 +20,3 @@ public class TestPrivate extends TestPrivateParent
         //System.out.println(ov.number);
     }
 }
-
-
