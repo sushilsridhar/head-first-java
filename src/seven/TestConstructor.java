@@ -25,7 +25,12 @@ public class TestConstructor extends Parent
 
 class Parent
 {
-    private Parent ()
+   /* private Parent ()
+    {
+        System.out.println("Parent Constructor");
+    }*/
+
+    Parent ()
     {
         System.out.println("Parent Constructor");
     }
